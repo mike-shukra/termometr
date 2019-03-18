@@ -1,2 +1,2 @@
 # termometr
-# Arduino
+Arduino
